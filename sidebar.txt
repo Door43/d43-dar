@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dar:home|Door43 (dar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dar|d43-dar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dar/archive/master.zip|d43-dar.zip]]
+
+**Recent Changes**
+{{changes>ns = dar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dar|Ethnologue data]]
+
